@@ -359,6 +359,6 @@ class SarenkaCommand:
 
 
 if __name__ == "__main__":
-    print("!!! It is in develop mode !!!")
+    print("!!! SARENKA 0.0.1 !!!")
     sarenka_command = SarenkaCommand()
     sarenka_command.build()

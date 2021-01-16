@@ -1,3 +1,11 @@
+- **ARCHIWUM prac 26.04.2020 - 16.01.2021 projektu SARENKA dla wydziału Matematyki i Informatyki Uniwersytetu im. Adama Mickiewicza w Poznaniu.**
+- **Aplikacja była rozbudowywana podczas przedmiotu "Projekt Zespołowy" na studiach niestacjonarnych przez zespół "sarenka":**
+* **Dominika Pawlaczyk (logika aplikacji, backend, wdrożenia, kontakt z klientem)**
+* **Michał Pawlaczyk (frontend)**
+* **Karolina Słonka (UX desginer, raport pdf).**
+- **Archiwum pochodzi z dnia 16.01.2021 (dzień obrony projektu)**
+
+
 <p align="center">
     <img alt="sarenka-logo" src="https://raw.githubusercontent.com/pawlaczyk/sarenka/master/logo.png">
 </p>
